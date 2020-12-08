@@ -1,0 +1,91 @@
+index.css
+
+
+body{
+    text-align:center; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color:rgba(129, 61, 109, 0.979);
+}
+
+
+body{
+    background-color: rgb(118, 45, 128);
+    text-align: center;
+}
+header{
+  
+    font-size: 20px;
+    font: weight 800;;
+    background-color: rgba(17, 85, 79, 0.884);
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 5px solid black;
+    font-style: italic;
+    
+}
+h1,h2{
+    font-size: 40px;
+    font-style:italic;
+    background-color: rgba(108, 160, 12, 0.582);
+    margin: 0;
+    margin-top: 0%;   
+}
+h2{
+    font-style: italic;
+}
+
+h5{
+    font-size: 30px;
+    font-style: oblique;
+}
+h4{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+div {
+font-weight: bold;
+margin-left: 20%;
+margin-right: 20%;
+background-color: white;
+
+}
+
+
+#pet{
+    font-size: 20px;
+
+    font-style: italic;
+    font-weight: bold;
+    
+    
+    
+
+}
+
+.tobeBold{
+    font-style: bold;
+    font-size: 30px 
+}
+span{
+    color: blue;
+    font-style: italic;
+}
+.name{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+img{
+    border-radius: 10% 20% 10% 20%;
+
+}
+   
