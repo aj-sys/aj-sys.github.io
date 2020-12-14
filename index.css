@@ -1,0 +1,114 @@
+index.css
+body{
+    background-color: rgba(24, 53, 116, 0.925);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+body{
+    background-color: rgba(25, 25, 139, 0.534);
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+header{
+    font-size: 30px;
+    font-style: bold ;
+    font-family: 'Oswald', sans-serif;
+    border: 5px black;
+    background-color: crimson;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1,h2{
+    margin: 0%;
+}
+h2{
+    font-style:italic;
+    font-size: 35px;
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    
+}
+div{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: deeppink;
+    border:5px  rgba(152, 177, 12, 0.966);
+    margin: 0;
+    padding-bottom: 10%;
+    text-align:center;
+
+
+}
+.div-skills{
+    background-color:deeppink ;
+    border: 5px rgba(152, 251, 160, 0.438);
+    font-size: 20px;
+    text-align: center;   
+}
+
+.div-like{
+    font-size: 20px;
+    padding-bottom: 0%;
+    paddi
+}
+
+img{
+    float:left;   
+}
+
+span{
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+}
+
+
+.likes{
+    font-size:30px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    padding-right: 20%;
+    padding: 25px;
+    border: 5px pink;
+}
+.skills{
+    font-size: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px pink;
+    margin: 0%;
+    background-color: deeppink;
+}
+h4{
+    font-size:30px;
+    text-align: center;
+}
+nav{
+    padding: 10%;
+    margin: 0;
+    color: rgba(9, 75, 20, 0.623);
+    font-size: 20px;
+    text-align:center;
+}
+
+a{
+    display: inline;
+    text-decoration:none;
+    background-color: transparent;
+    color: green;
+    padding: 15px 20px;
+    font-size: 20px;
+}
+
+a:hover {
+    color:#8f3838cc;
+}
+
